@@ -1,15 +1,15 @@
-👋 &nbsp;Hey there! I'm Alexandre
-<img alt="Night Coding" src="https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
+👋 &nbsp;Hey there! I'm Rafael
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;<em>I like to explore new technologies and develop software solutions.</em>\
-🎓 &nbsp;<em>I'm currently studying Software Engineering at Kenzie Academy.</em>\
-🌱 &nbsp;<em>I'm on track for learning more about Back-end, Systems Design, and Cloud Architecture.</em>\
-✍️ &nbsp;<em>In my free time, I pursue Machine Learning and Data Science as hobbies/side hustles.</em>\
-💬 &nbsp;<em>Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.</em>\
-✉️ &nbsp;<em>You can shoot me an email at henriqueafcarvalho15@gmail.com! I'll try to respond as soon as I can.</em>\
-📄 &nbsp;<em>Please have a look at my [Résumé](https://drive.google.com/file/d/1YgDQaPiYTxlIS5End2VChaRrS8nJzcpe/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!</em>
+💡 &nbsp;<em></em>\
+🎓 &nbsp;<em></em>\
+🌱 &nbsp;<em></em>\
+✍️ &nbsp;<em></em>\
+💬 &nbsp;<em></em>\
+✉️ &nbsp;<em>You can shoot me an email at rafaelpx8812@gmail.com! I'll try to respond as soon as I can.</em>\
+📄 &nbsp;<em>Please have a look at my [Résumé](https://docs.google.com/document/d/1uh05kztK8hn6VibL9LbWQXdOsbDIlAH0KqptO9u8LdE/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!</em>
 
 
 
@@ -39,8 +39,8 @@
 
 ### 💻 &nbsp;Currently studying
 ![Golang](https://img.shields.io/badge/-Golang-050806?style=flat-square&logo=Go&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-050806?style=flat-square&logo=c#&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-050806?style=flat-square&logo=Java&logoColor=white)
+![Ruby](https://img.shields.io/badge/-CSharp-050806?style=flat-square&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Java-050806?style=flat-square&logo=Elixir&logoColor=white)
 
 ![Jinja](https://img.shields.io/badge/-Jinja-050806?style=flat-square&logo=jinja&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-050806?style=flat-square&logo=node.js)&nbsp;
@@ -48,7 +48,7 @@
 
 
 <p align="center">
-<a href="https://github.com/alexandrealfa">
+<a href="https://github.com/rapaix">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexandrealfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandrealfa&layout=compact&langs_count=8&theme=dark"/>
 </a>
